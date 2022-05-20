@@ -6,9 +6,7 @@
 
 ## 1.1  系统功能流程
 
-​                           
-
-![1653021447058](README.assets/1653021447058.png)
+![image001](README.assets/image001.png)
 
 
 
@@ -94,33 +92,31 @@
 
 ## 2.1  ER图
 
-​                 ![1653021641340](README.assets/1653021641340.png)           
+​           ![image002](README.assets/image002-1653022344696.png)
 
 ## 2.1  数据表的结构设计
 
 ### 2.1.1 班级表
 
-​                       ![1653021687498](README.assets/1653021687498.png)         
+​                          ![image003](README.assets/image003.png)
 
 ### 2.1.2 管理员表
 
- ![1653021692439](README.assets/1653021692439.png)
+![image004](README.assets/image004.png)
 
   
 
 ### 2.1.3 选课和成绩表
 
-  ![1653021695732](README.assets/1653021695732.png)
+![image005](README.assets/image005.png)
 
 ### 2.1.4 排课时间表
 
- 
-
- ![1653021699696](README.assets/1653021699696.png)
+ ![image006](README.assets/image006.png)
 
 ### 2.1.5 学生表
 
-  ![1653021706544](README.assets/1653021706544.png)
+![image007](README.assets/image007.png)
 
 # 3   功能模块运行界面截图
 
@@ -128,133 +124,129 @@
 
 #### 3.1.1.1 用户登录
 
-​                                . ![1653021785223](README.assets/1653021785223.png) 
+![image008](README.assets/image008-1653022473133.png)
 
-![1653021854916](README.assets/1653021854916.png)
+![image009](README.assets/image009-1653022476525.png)
 
-### 3.1.2 管理员首页
+#### 3.1.1.2 管理员首页
 
-![1653021863944](README.assets/1653021863944.png)
+![image010](README.assets/image010-1653022482380.png)
 
 #### 3.1.2.1 修改管理员信息
 
- 
+ ![image011](README.assets/image011.png)
 
-![1653021875693](README.assets/1653021875693.png)
-
-![1653021880805](README.assets/1653021880805.png)
+![image012](README.assets/image012.png)
 
   
 
 #### 3.1.2.2 添加管理员
 
- ![1653021886809](README.assets/1653021886809.png)
+![image013](README.assets/image013.png)
 
   
 
 #### 3.1.2.3 修改管理员密码信息
 
-  ![1653021890809](README.assets/1653021890809.png)
+![image014](README.assets/image014.png)
 
-![1653021894086](README.assets/1653021894086.png)
-
-  
+  ![image015](README.assets/image015.png)
 
 #### 3.1.2.4 删除管理员信息
 
-  ![1653021898177](README.assets/1653021898177.png)
+![image016](README.assets/image016-1653022531343.png)
 
 ### 3.1.3 课程管理
 
 #### 3.1.3.1 开设课程
 
- ![1653021902478](README.assets/1653021902478.png)
+![image017](README.assets/image017.png)
 
   
 
 #### 3.1.3.2 查询开设的课程
 
-  
+![image018](README.assets/image018-1653022576696.png)
 
-  ![1653021906311](README.assets/1653021906311.png)
+![image019](README.assets/image019.png)
 
-![1653021910151](README.assets/1653021910151.png)
+
 
 ### 3.1.4 学生信息管理
 
 #### 3.1.4.1 添加学生
 
- ![1653021920566](README.assets/1653021920566.png)
+![image020](README.assets/image020.png)
 
   
 
 #### 3.1.4.2 修改学生信息
 
-  ![1653021924589](README.assets/1653021924589.png)
+![image021](README.assets/image021.png)
 
 ### 3.1.5 成绩管理
 
-  ![1653021928072](README.assets/1653021928072.png)
+![image022](README.assets/image022.png)
 
 #### 3.1.5.1 录入成绩（学生端,学生选课后,可录入）
 
-  ![1653021930772](README.assets/1653021930772.png)
+![image023](README.assets/image023.png)
 
-  ![1653021933610](README.assets/1653021933610.png)
+![image024](README.assets/image024.png)
 
-  ![1653021938707](README.assets/1653021938707.png)
+![image025](README.assets/image025.png)
 
-  ![1653021941704](README.assets/1653021941704.png)
+![image026](README.assets/image026.png)
 
 #### 3.1.5.2 统计学生成绩
 
-  ![1653021945856](README.assets/1653021945856.png)
+![image027](README.assets/image027.png)
 
-  ![1653021948169](README.assets/1653021948169.png)
+![image028](README.assets/image028.png)
 
 #### 3.1.5.3 修改学生成绩
 
-  .![1653021953955](README.assets/1653021953955.png)
+ ![image029](README.assets/image029.png)
 
 ## 3.2  学生端
 
 ### 3.2.1 使用学生角色登录
 
-  ![1653021959598](README.assets/1653021959598.png)
+![image030](README.assets/image030.png)
 
 ### 3.2.2 学生首页
 
-  ![1653021963084](README.assets/1653021963084.png)
+![image031](README.assets/image031.png)
 
 ### 3.2.3 课程管理
 
 #### 3.2.3.1 学生选课
 
-  ![1653021966855](README.assets/1653021966855.png)
+  ![image032](README.assets/image032.png)
 
-  ![1653021970240](README.assets/1653021970240.png)
+![image033](README.assets/image033.png)
 
-  ![1653021972707](README.assets/1653021972707.png)
+![image034](README.assets/image034.png)
 
-  ![1653021976422](README.assets/1653021976422.png)
+![image035](README.assets/image035.png)
 
 #### 3.2.3.2 学生查询所选课程
 
-  ![1653021980345](README.assets/1653021980345.png)
+![image036](README.assets/image036.png)
 
 #### 3.2.3.3 学生查询课表
 
-  ![1653021984307](README.assets/1653021984307.png)
+![image037](README.assets/image037.png)
 
 ### 3.2.4 成绩管理
 
 #### 3.2.4.1 我的成绩单
 
-  ![1653021988499](README.assets/1653021988499.png)
+![image038](README.assets/image038.png)
 
 ### 3.2.5 学生修改密码
 
-  ![1653021992514](README.assets/1653021992514.png)
+![image039](README.assets/image039.png)
 
  
 
